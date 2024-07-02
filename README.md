@@ -80,7 +80,7 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e 
     <a href="www.linkedin.com/in/
 felipe-exe">LinkedIn</a>
 &nbsp;|&nbsp;
-    <a href="https://www.instagram.com/felipeaguiar.exe/">
+    <a href="https://www.instagram.com/psr_souza/">
     Instagram</a>
 &nbsp;|&nbsp;</p>
 </p>
@@ -89,4 +89,4 @@ felipe-exe">LinkedIn</a>
 
 ---
 
-⌨️ com 💜 por [Felipe Aguiar](https://github.com/felipeAguiarCode)
+⌨️ com 💜 por [Paulo Souza](https://github.com/PSRprogram)
